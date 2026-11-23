@@ -2,7 +2,7 @@
 
 A study companion for Claude, for experienced privacy and data protection professionals preparing for the CIPM exam. It takes the real-world program, governance and stakeholder experience you already have and helps you translate it into the reasoning the exam expects.
 
-**Unofficial.** Praxis is an independent study aid. It is not affiliated with or endorsed by the IAPP. IAPP and its certification names belong to the IAPP. Praxis contains no IAPP textbook content and no real exam questions, and it does not give legal advice.
+**Unofficial.** Praxis is an independent study aid. It is not affiliated with or endorsed by the IAPP. IAPP and its certification names belong to the IAPP. Praxis contains no IAPP textbook content and no real exam questions, and it does not give legal advice. The IAPP does not endorse study materials from anyone but itself and its official training partners, and it cannot guarantee that unofficial materials will prepare you, so use Praxis alongside IAPP's own materials.
 
 ## What it does
 
