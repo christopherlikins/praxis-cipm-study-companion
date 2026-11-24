@@ -1,6 +1,6 @@
 # License
 
-Copyright (c) 2026 Chris
+Copyright (c) 2026 Christopher Likins
 
 Praxis: an unofficial CIPM study companion is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
